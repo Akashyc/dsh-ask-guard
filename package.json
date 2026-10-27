@@ -5,7 +5,7 @@
   "type": "module",
   "description": "A 600-second ask_user_question that ends the turn on timeout and never decides for the user.",
   "license": "MIT",
-  "author": "爀曦 (Akashyc)",
+  "author": "Akashyc",
   "exports": {
     ".": "./index.js",
     "./locale/*.json": "./locale/*.json",

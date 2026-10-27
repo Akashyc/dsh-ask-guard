@@ -51,7 +51,7 @@ node --check index.js
 ## 开源说明
 
 - **许可证**：MIT，全文见 [LICENSE](LICENSE)。可以自由使用、修改、分发、商用，保留版权与许可声明即可。
-- **版权**：Copyright (c) 2026 爀曦 (Akashyc)。
+- **版权**：Copyright (c) 2026 Akashyc。
 - **图标**：`icon.svg` 为本项目原创，随插件一起以 MIT 授权，没有使用第三方美术素材。
 - **第三方代码**：本插件只通过 DSH（DeepSeek Harness）的公开插件接口注册工具，不包含、也不再分发 DSH 或其官方包的源码；提问卡片 UI 由 DSH 本体提供，本插件只调用它的服务。
 - **`private: true`**：只是防止误执行 `npm publish`，不影响源码开放；真要发布时改成 `false` 即可。
