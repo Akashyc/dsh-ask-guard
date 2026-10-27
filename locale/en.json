@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Ask Guard",
+    "description": "Gives the question dialog 600 seconds, ends the turn on timeout, lists the options, and never chooses for the user."
+  }
+}
